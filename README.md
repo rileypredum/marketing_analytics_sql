@@ -9,9 +9,6 @@ This is a SQL script/Jupyter Notebook duo that calculates key metrics for market
 
 2. Next, you'll connect to the database. It should work to just follow along in the analysis_queries.sql file.
 
-### Table schema for reference:
-![](https://github.com/rileypredum/marketing_analytics_sql/tree/master/03_images/tableschema.png?raw=true?raw=true)
-
 ### When working on the Jupyter Notebook, make sure to adjust the %cd command at the top to the directory of your local repo.
 
 Enjoy!
