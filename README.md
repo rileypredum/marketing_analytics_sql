@@ -10,7 +10,7 @@ This is a SQL script/Jupyter Notebook duo that calculates key metrics for market
 2. Next, you'll connect to the database. It should work to just follow along in the analysis_queries.sql file.
 
 ### Table schema for reference:
-![alt text](C:\Users\riley\Documents\Coding\marketing_analyst_practice\marketing_data_analysis\03_images\tableschemma.png "Table Schema")
+![alt text](C:\Users\riley\Documents\Coding\marketing_analyst_practice\marketing_data_analysis\03_images\tableschema.png "Table Schema")
 
 ### When working on the Jupyter Notebook, make sure to adjust the %cd command at the top to the directory of your local repo.
 
