@@ -18,7 +18,7 @@ SELECT channel,
        `CPC ($)`,
        conversions FROM cac_calc;
 
--- Calculates the 
+-- Calculates the cost per impression
 SELECT impressions*`CPM ($)` / 1000 AS cost_per_impression_total FROM data_to_calculate;
 
 -- Calculates the click through rate
