@@ -1,4 +1,4 @@
-===== SQL and Python Marketing KPIs/Metrics
+# SQL and Python Marketing KPIs/Metrics
 
 ## Introduction
 ### This is a SQL script/Jupyter Notebook duo that calculates key metrics for marketing departments, like the cost of acquiring a new customer (CAC), cost per click (CPC), cost per impression (CPM), customer lifetime value (LTV), and click-through rate (CTR).
